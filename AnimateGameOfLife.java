@@ -1,3 +1,4 @@
+#This file was provided as part of the NSF-IUSE Peer Enhanced Experiential Research in STEM (PEERS) grant at Northeastern Illinois University
 import javafx.animation.KeyFrame;
 import javafx.animation.Timeline;
 import javafx.application.Application;
